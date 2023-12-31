@@ -1,0 +1,94 @@
+.orange{
+    color: rgb(245, 178, 77);
+}
+.btn-orange{
+    background-color: orange;
+}
+.special-color{
+    background-color: rgb(8, 8, 49);
+}
+.special-color-text{
+    color: rgb(8, 8, 49);
+}
+.special-color-2{
+    background-color: rgb(224, 224, 224);
+}
+.p-under-img{
+    max-width: 600px;
+    
+}
+.card-height{
+    height: 140px;
+}
+
+.card-height-2{
+    height: 300px;
+}
+.h1-font{
+    font-size: 55px;
+    font-weight: 900;
+}
+.span-font{
+    font-size: 50px;
+    font-weight: 800;
+}
+.num-font{
+    font-size: 40px;
+    font-weight: 700;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.off-font{
+    font-size: 60px;
+    font-weight: 800;
+}
+.p-font-card{
+    font-size: 15px;
+}
+.six-box-height {
+height: 90px;
+
+}
+.p-bold{
+    font-weight: 700;
+    font-size: 18px;
+}
+@media(max-width:768px){
+    .off-font{
+        font-size: 30px;
+    }
+    .p-font-card{
+        font-size: 10px;
+    }
+    .num-font{
+        font-size: 25px;
+    }
+}
+@media(max-width:576px){
+    .off-font{
+        font-size: 20px;
+    }
+    .p-font-card{
+        font-size: 9px;
+    }
+    .num-font{
+        font-size: 15px;
+    }
+
+}
+@media(max-width:576px){
+    .pp-font{
+        font-size:13px;
+    }
+    .h6-font{
+        font-size: 15px;
+    }
+    .rounded-end{
+        width: 100%;
+        height: 100%;
+    }
+    .rounded-start{
+        width: 100%;
+        height: 100%;
+    }
+
+}
